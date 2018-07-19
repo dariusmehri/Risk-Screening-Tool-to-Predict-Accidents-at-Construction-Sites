@@ -12,8 +12,7 @@ Buildings with 10+ floors: Yes = 1, No = 0
 
 Buildings with accidents pior to 2017: Yes = 1, No = 0
 
-
-
+The python program is run daily and it automatically calculates the risk for each building and results are presented in a D3 spatial map.
 
 
 
