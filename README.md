@@ -1,2 +1,1 @@
-# Automation-of-Building-Construction-Risk-Screening-Tool
-A risk screening tool for buildings with active construction permits
+A pythong program was developed to automatically identify high risk construction sites. 
