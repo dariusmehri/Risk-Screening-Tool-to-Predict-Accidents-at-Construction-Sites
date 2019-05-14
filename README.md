@@ -1,4 +1,4 @@
-A python program was developed to automatically identify high risk construction sites. The criteria determing whether a building is high risk, more likely to have an accident, was based on on a logistic regression model where the outcome variable was an accident at the building in 2017. Independent variables included building characteristics, number of permits active at the site, type of building permit and buildings with accidents prior to 2017.
+A Python program was developed to automatically identify high risk construction sites. The criteria determing whether a building is high risk, more likely to have an accident, was based on on a logistic regression model where the outcome variable was an accident at the building in 2017. Independent variables included building characteristics, number of permits active at the site, type of building permit and buildings with accidents prior to 2017.
 
 Based on the results of the model, rules were incorporate in the risk tool. Buildings with active permits were ranked from 1 to 8 on the following risk factors:
 
@@ -12,7 +12,7 @@ Buildings with 10+ floors: Yes = 1, No = 0
 
 Buildings with accidents pior to 2017: Yes = 1, No = 0
 
-The python program is run daily and it automatically calculates the risk for each building and results are presented in a D3 spatial map.
+The Python program is run daily and it automatically calculates the risk for each building and results are presented in a D3 spatial map.
 
 
 
